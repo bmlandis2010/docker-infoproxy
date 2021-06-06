@@ -4,7 +4,7 @@ InfoProxy is a fake Minecraft Server displaying a user-defined Motd and kicking 
 
 ## Usage
 ```
-docker run -v (PathToConfigFolder):/data -p 25565:25565/tcp -p 25565:25565/udp DaruSupaHaka/infoproxy
+docker run -v (PathToConfigFolder):/data -p 25565:25565/tcp -p 25565:25565/udp bmlandis2010/infoproxy
 ```
 
 ## Config
